@@ -24,4 +24,4 @@ This project is a **Command-Line Address Book** application built in C. It allow
 ### How to Run the Project:
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/aftabennus/address-book.git
+   git clone https://github.com/AftabEnnus/AddressBook
